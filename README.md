@@ -11,5 +11,4 @@
 
 </ol>
 
-
-![github] (https://avatars.githubusercontent.com/u/196354627?s=400&u=0caa524cc66689e79f0c701d2adaa14981cd301d&v=4)
+[![Meu Perfil no GitHub](https://img.shields.io/badge/GitHub-@GilmarFilhos-blue)](https://github.com/GilmarFilhos)
